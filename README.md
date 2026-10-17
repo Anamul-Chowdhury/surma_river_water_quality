@@ -1,6 +1,6 @@
 # Surma River Water Quality Classification
 
-Paper: https://doi.org/10.13140/RG.2.2.11578.86721
+Paper: https://ieeexplore.ieee.org/document/11491222/
 
 Reproduces the methodology of the ICCIT 2025 paper "Machine Learning Approaches to
 Classify and Predict Water Quality Status in the Surma River, Sylhet, Bangladesh".
